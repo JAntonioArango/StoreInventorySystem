@@ -72,7 +72,7 @@ It demonstrates clean code, layered architecture, unit tests, and integration wi
 
 ---
 
-##  ♻ Short feedback:
+##  ♻ AI Development feedback:
 - Was it easy to complete the task using AI? I started using an agent to create step-by-step prompts for developing the app
 
 - How long did task take you to complete? 2 hours
